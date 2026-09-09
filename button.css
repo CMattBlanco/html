@@ -1,0 +1,108 @@
+.youtube1{
+    height: 40px;
+    width: 94.53px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    font-style: arial;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+.join1{
+    height: 40px;
+    width: 60px;
+    border-style: solid;
+    border-radius: 8px;
+    background-color: white;
+    color: aqua;
+    border-color: aqua;
+    font-style: arial;
+    text-align: center;
+    cursor: pointer;
+}
+.twitter{
+    height: 40px;
+    width: 94.53px;
+    border-style: none;
+    border-radius: 50px;
+    background-color: aqua;
+    color: white;
+    font-style: bold;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+.join2{
+    height: 40px;
+    width: 94.53px;
+    border-style: none;
+    border-radius: 50px;
+    background-color: rgb(240, 242, 243);
+    color:black;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+.youtube2{
+    height: 40px;
+    width: 94.53px;
+    border-style: none;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+.button1{
+    height: 50px;
+    width: 130px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: rgb(54, 228, 170);
+    border-style: solid;
+    border-radius: 60px;
+    border-color: rgb(54, 228, 170);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.button2{
+    height: 50px;
+    width: 130px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 60px;
+    background-color: rgb(54, 228, 170);
+    color: white;
+    text-align: center;
+    cursor:pointer;
+    margin-top: 10px;
+}
+.button3{
+    height: 50px;
+    width: 130px;
+    border-radius: 60px;
+    border-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(240, 242, 243);
+    color:rgb(157, 158, 158);
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+.button4{
+    height : 50px;
+    width : 130px;
+    border-radius: 8px;
+    border-style: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
